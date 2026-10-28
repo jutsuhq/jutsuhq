@@ -1,6 +1,6 @@
 <a href="https://jutsustudio.com/"><img src="banner.png" alt="Jutsu Studio: open-source Mac tools for AI video" width="100%"></a>
 
-Jutsu Studio makes open-source, native Mac tools for AI video. Everything here is free and MIT-licensed, and none of it is affiliated with Higgsfield, ByteDance or the other model makers.
+Jutsu Studio makes open-source desktop tools for AI video, native on the Mac and now on Windows and Linux. Everything here is free and MIT-licensed, and none of it is affiliated with Higgsfield, ByteDance or the other model makers.
 
 ### Mac apps
 
@@ -23,6 +23,16 @@ Jutsu Studio makes open-source, native Mac tools for AI video. Everything here i
 </table>
 
 Jutsu Studio also installs with Homebrew: `brew install jutsuhq/tap/jutsu-studio`
+
+### Windows and Linux
+
+<table>
+<tr>
+<td align="center" width="72"><img src="https://raw.githubusercontent.com/jutsuhq/kawarimi-local-character-swap/main/docs/assets/icon.png" width="56" alt=""></td>
+<td><a href="https://github.com/jutsuhq/kawarimi-local-character-swap"><b>Kawarimi</b></a><br>Free local AI character swap for Windows and Linux. Wan 2.2 Animate on your own NVIDIA GPU, no cloud and no account.</td>
+<td nowrap><a href="https://github.com/jutsuhq/kawarimi-local-character-swap#build-from-source">Build</a> · <a href="https://jutsustudio.com/kawarimi/">Site</a></td>
+</tr>
+</table>
 
 ### For developers and agents
 
