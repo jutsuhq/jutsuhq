@@ -27,6 +27,7 @@ Jutsu Studio also installs with Homebrew: `brew install jutsuhq/tap/jutsu-studio
 ### For developers and agents
 
 - **[edgetam-coreml](https://github.com/jutsuhq/edgetam-coreml)** · EdgeTAM video segmentation in Core ML: click once and track an object through a video on the Apple Neural Engine.
+- **[edgetam-onnx](https://github.com/jutsuhq/edgetam-onnx)** · The same tracker on Windows and Linux: EdgeTAM and SAM 2.1 tiny in Rust on ONNX Runtime's CUDA provider, ~42 ms a frame.
 - **[higgsfield-gateway](https://github.com/jutsuhq/higgsfield-gateway)** · Higgsfield API gateway on Cloudflare Workers, with spending caps and signed webhook verification. [Guide](https://jutsustudio.com/blog/higgsfield-api-production/)
 - **[higgsfield-seedance-prompt-skill](https://github.com/jutsuhq/higgsfield-seedance-prompt-skill)** · Seedance 2.5 prompt skill for Claude Code, Codex and Cursor. [Guide](https://jutsustudio.com/blog/seedance-prompt-skill/)
 
