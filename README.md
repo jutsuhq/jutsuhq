@@ -17,7 +17,7 @@ Jutsu Studio makes open-source desktop tools for AI video, native on the Mac and
 </tr>
 <tr>
 <td align="center" width="72"><img src="https://raw.githubusercontent.com/jutsuhq/content-factory/main/app/src-tauri/icons/128x128.png" width="56" alt=""></td>
-<td><a href="https://github.com/jutsuhq/content-factory"><b>Content Factory</b></a><br>Open-source faceless video generator for Shorts, TikTok and Reels: a <i>What if</i> script becomes a finished vertical video.</td>
+<td><a href="https://github.com/jutsuhq/content-factory"><b>Content Factory</b></a><br>Open-source faceless video generator for Shorts, TikTok and Reels: a <i>What if</i> script becomes a finished vertical video. Claude Code or any MCP client can drive it.</td>
 <td nowrap><a href="https://jutsustudio.com/content-factory/">Site</a></td>
 </tr>
 </table>
@@ -29,8 +29,8 @@ Jutsu Studio also installs with Homebrew: `brew install jutsuhq/tap/jutsu-studio
 <table>
 <tr>
 <td align="center" width="72"><img src="https://raw.githubusercontent.com/jutsuhq/kawarimi-local-character-swap/main/docs/assets/icon.png" width="56" alt=""></td>
-<td><a href="https://github.com/jutsuhq/kawarimi-local-character-swap"><b>Kawarimi</b></a><br>Free local AI character swap for Windows and Linux. Wan 2.2 Animate on your own NVIDIA GPU, no cloud and no account.</td>
-<td nowrap><a href="https://github.com/jutsuhq/kawarimi-local-character-swap#build-from-source">Build</a> · <a href="https://jutsustudio.com/kawarimi/">Site</a></td>
+<td><a href="https://github.com/jutsuhq/kawarimi-local-character-swap"><b>Kawarimi</b></a><br>Free local AI character swap for Windows and Linux. Wan 2.2 Animate on your own NVIDIA GPU, no cloud and no account. Installers for Windows, Debian and AppImage.</td>
+<td nowrap><a href="https://github.com/jutsuhq/kawarimi-local-character-swap/releases/latest">Download</a> · <a href="https://jutsustudio.com/kawarimi/">Site</a></td>
 </tr>
 </table>
 
@@ -43,7 +43,8 @@ Jutsu Studio also installs with Homebrew: `brew install jutsuhq/tap/jutsu-studio
 
 ### Data and lists
 
-- **[video-api-prices](https://github.com/jutsuhq/video-api-prices)** · What one second of AI video costs at 30+ API providers, updated daily. [Table](https://jutsustudio.com/video-api-pricing/)
+- **[open-source-higgsfield](https://github.com/jutsuhq/open-source-higgsfield)** · Every open-source Higgsfield alternative on GitHub: 100 projects from ComfyUI's #OpenSourceHiggsfield challenge and 6 older ones, with stars and licenses. [By category](https://jutsustudio.com/open-source-higgsfield/)
+- **[video-api-prices](https://github.com/jutsuhq/video-api-prices)** · What one second of AI video costs at 75+ API providers, from the model makers to resellers and relays, checked daily. [Table](https://jutsustudio.com/video-api-pricing/)
 - **[awesome-higgsfield](https://github.com/jutsuhq/awesome-higgsfield)** · Tools, SDKs, MCP servers, agent skills and apps for Higgsfield.
 
 Guides, comparisons and prices: **[jutsustudio.com](https://jutsustudio.com/)**
