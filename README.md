@@ -51,7 +51,7 @@ Jutsu Studio also installs with Homebrew: `brew install jutsuhq/tap/jutsu-studio
 ### Data and lists
 
 - **[open-source-higgsfield](https://github.com/jutsuhq/open-source-higgsfield)** · Every open-source Higgsfield alternative on GitHub: 100 projects from ComfyUI's #OpenSourceHiggsfield challenge and 6 older ones, with stars and licenses. [By category](https://jutsustudio.com/open-source-higgsfield/)
-- **[video-api-prices](https://github.com/jutsuhq/video-api-prices)** · What one second of AI video costs at 75+ API providers, from the model makers to resellers and relays, checked daily. [Table](https://jutsustudio.com/video-api-pricing/)
+- **[ai-media-api-prices](https://github.com/jutsuhq/ai-media-api-prices)** · What one second of AI video and one AI image cost at every API provider, from the model makers to resellers and relays, checked daily. [Video](https://jutsustudio.com/video-api-pricing/) · [Images](https://jutsustudio.com/image-api-pricing/)
 - **[awesome-higgsfield](https://github.com/jutsuhq/awesome-higgsfield)** · Tools, SDKs, MCP servers, agent skills and apps for Higgsfield.
 
 Guides, comparisons and prices: **[jutsustudio.com](https://jutsustudio.com/)**
