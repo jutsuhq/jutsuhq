@@ -1,6 +1,13 @@
-<a href="https://jutsustudio.com/"><img src="banner.png" alt="Jutsu Studio: open-source Mac tools for AI video" width="100%"></a>
+<a href="https://jutsustudio.com/"><img src="banner.png" alt="Jutsu Studio: open-source tools for AI video, clients and pipelines for Higgsfield" width="100%"></a>
 
-Jutsu Studio makes open-source desktop tools for AI video, native on the Mac and now on Windows and Linux. Everything here is free and MIT-licensed, and none of it is affiliated with Higgsfield, ByteDance or the other model makers.
+Jutsu Studio builds open-source tools for AI video generation, mostly clients and pipelines for Higgsfield.
+
+- **Clients.** Native apps that bring Seedance 2.5, Kling, Wan and Genjutsu to your desktop and keep every result on your disk.
+- **Pipelines.** Apps that run a whole job: swap a character in a video, or turn a script into a vertical video with voiceover, subtitles and music.
+- **Building blocks.** An API gateway with spending caps, video trackers that run on the device, a prompt skill and MCP servers, so Claude Code and other agents can drive the apps.
+- **Open data.** What AI video costs per second at each API provider, and every open-source Higgsfield alternative in one list.
+
+The apps run on Mac, Windows and Linux. Everything here is free and MIT-licensed, and none of it is affiliated with Higgsfield, ByteDance or the other model makers.
 
 ### Mac apps
 
