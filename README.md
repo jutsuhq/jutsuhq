@@ -7,6 +7,8 @@ Jutsu Studio builds open-source tools for AI video generation, mostly clients an
 - **Building blocks.** An API gateway with spending caps, video trackers that run on the device, a prompt skill and MCP servers, so Claude Code and other agents can drive the apps.
 - **Open data.** What AI video costs per second at each API provider, and every open-source Higgsfield alternative in one list.
 
+**Most starred:** [open-source-higgsfield](https://github.com/jutsuhq/open-source-higgsfield), every open-source Higgsfield alternative on GitHub in one list.
+
 The apps run on Mac, Windows, Linux, iPhone and iPad. Everything here is free and MIT-licensed, and none of it is affiliated with Higgsfield, ByteDance or the other model makers.
 
 ### Mac apps
@@ -14,17 +16,17 @@ The apps run on Mac, Windows, Linux, iPhone and iPad. Everything here is free an
 <table>
 <tr>
 <td align="center" width="72"><img src="https://raw.githubusercontent.com/jutsuhq/jutsu-studio/main/JutsuStudio/Resources/Assets.xcassets/AppIcon.appiconset/icon_128x128.png" width="56" alt=""></td>
-<td><a href="https://github.com/jutsuhq/jutsu-studio"><b>Jutsu Studio</b></a><br>Open-source Higgsfield desktop app for Mac. Seedance 2.5, Kling, Wan and Genjutsu, with every result kept on your disk.</td>
+<td><a href="https://github.com/jutsuhq/jutsu-studio"><b>Jutsu Studio</b></a> <a href="https://github.com/jutsuhq/jutsu-studio/stargazers"><img src="https://img.shields.io/github/stars/jutsuhq/jutsu-studio?style=social" alt="Stars" align="absmiddle"></a><br>Open-source Higgsfield desktop app for Mac. Seedance 2.5, Kling, Wan and Genjutsu, with every result kept on your disk.</td>
 <td nowrap><a href="https://github.com/jutsuhq/jutsu-studio/releases/latest">Download</a> · <a href="https://jutsustudio.com/">Site</a></td>
 </tr>
 <tr>
 <td align="center" width="72"><img src="https://raw.githubusercontent.com/jutsuhq/swapjutsu-seedance-character-swap/main/docs/assets/icon.png" width="56" alt=""></td>
-<td><a href="https://github.com/jutsuhq/swapjutsu-seedance-character-swap"><b>Swapjutsu</b></a><br>Free character swap for Mac, no watermark. Seedance 2.5 or Wan 2.2 Animate, with tracking and masks done on the Mac.</td>
+<td><a href="https://github.com/jutsuhq/swapjutsu-seedance-character-swap"><b>Swapjutsu</b></a> <a href="https://github.com/jutsuhq/swapjutsu-seedance-character-swap/stargazers"><img src="https://img.shields.io/github/stars/jutsuhq/swapjutsu-seedance-character-swap?style=social" alt="Stars" align="absmiddle"></a><br>Free character swap for Mac, no watermark. Seedance 2.5 or Wan 2.2 Animate, with tracking and masks done on the Mac.</td>
 <td nowrap><a href="https://github.com/jutsuhq/swapjutsu-seedance-character-swap/releases/latest">Download</a> · <a href="https://jutsustudio.com/swapjutsu/">Site</a></td>
 </tr>
 <tr>
 <td align="center" width="72"><img src="https://raw.githubusercontent.com/jutsuhq/content-factory/main/app/src-tauri/icons/128x128.png" width="56" alt=""></td>
-<td><a href="https://github.com/jutsuhq/content-factory"><b>Content Factory</b></a><br>Open-source faceless video generator for Shorts, TikTok and Reels: a <i>What if</i> script becomes a finished vertical video. Claude Code or any MCP client can drive it.</td>
+<td><a href="https://github.com/jutsuhq/content-factory"><b>Content Factory</b></a> <a href="https://github.com/jutsuhq/content-factory/stargazers"><img src="https://img.shields.io/github/stars/jutsuhq/content-factory?style=social" alt="Stars" align="absmiddle"></a><br>Open-source faceless video generator for Shorts, TikTok and Reels: a <i>What if</i> script becomes a finished vertical video. Claude Code or any MCP client can drive it.</td>
 <td nowrap><a href="https://jutsustudio.com/content-factory/">Site</a></td>
 </tr>
 </table>
@@ -36,7 +38,7 @@ Jutsu Studio also installs with Homebrew: `brew install jutsuhq/tap/jutsu-studio
 <table>
 <tr>
 <td align="center" width="72"><img src="https://raw.githubusercontent.com/jutsuhq/jutsu-studio-ios/main/docs/assets/icon.png" width="56" alt=""></td>
-<td><a href="https://github.com/jutsuhq/jutsu-studio-ios"><b>Jutsu for iPhone</b></a><br>Open-source Higgsfield app for iPhone and iPad. Motion transfer, character swap, restyle and images on your own account, with the price before every take and no server in between. iOS 18 or later.</td>
+<td><a href="https://github.com/jutsuhq/jutsu-studio-ios"><b>Jutsu for iPhone</b></a> <a href="https://github.com/jutsuhq/jutsu-studio-ios/stargazers"><img src="https://img.shields.io/github/stars/jutsuhq/jutsu-studio-ios?style=social" alt="Stars" align="absmiddle"></a><br>Open-source Higgsfield app for iPhone and iPad. Motion transfer, character swap, restyle and images on your own account, with the price before every take and no server in between. iOS 18 or later.</td>
 <td nowrap><a href="https://github.com/jutsuhq/jutsu-studio-ios#build-from-source">Build</a> · <a href="https://jutsustudio.com/ios/">Site</a></td>
 </tr>
 </table>
@@ -46,12 +48,12 @@ Jutsu Studio also installs with Homebrew: `brew install jutsuhq/tap/jutsu-studio
 <table>
 <tr>
 <td align="center" width="72"><img src="https://raw.githubusercontent.com/jutsuhq/higgsfield-desktop/main/src-tauri/icons/128x128.png" width="56" alt=""></td>
-<td><a href="https://github.com/jutsuhq/higgsfield-desktop"><b>Jutsu Studio for Windows and Linux</b></a><br>The Higgsfield desktop app for Windows and Linux: Seedance, Kling, Genjutsu and more, with a queue and a local library.</td>
+<td><a href="https://github.com/jutsuhq/higgsfield-desktop"><b>Jutsu Studio for Windows and Linux</b></a> <a href="https://github.com/jutsuhq/higgsfield-desktop/stargazers"><img src="https://img.shields.io/github/stars/jutsuhq/higgsfield-desktop?style=social" alt="Stars" align="absmiddle"></a><br>The Higgsfield desktop app for Windows and Linux: Seedance, Kling, Genjutsu and more, with a queue and a local library.</td>
 <td nowrap><a href="https://github.com/jutsuhq/higgsfield-desktop/releases/latest">Download</a> · <a href="https://jutsustudio.com/blog/higgsfield-windows-app/">Site</a></td>
 </tr>
 <tr>
 <td align="center" width="72"><img src="https://raw.githubusercontent.com/jutsuhq/kawarimi-local-character-swap/main/docs/assets/icon.png" width="56" alt=""></td>
-<td><a href="https://github.com/jutsuhq/kawarimi-local-character-swap"><b>Kawarimi</b></a><br>Free local AI character swap for Windows and Linux. Wan 2.2 Animate on your own NVIDIA GPU, no cloud and no account. Installers for Windows, Debian and AppImage.</td>
+<td><a href="https://github.com/jutsuhq/kawarimi-local-character-swap"><b>Kawarimi</b></a> <a href="https://github.com/jutsuhq/kawarimi-local-character-swap/stargazers"><img src="https://img.shields.io/github/stars/jutsuhq/kawarimi-local-character-swap?style=social" alt="Stars" align="absmiddle"></a><br>Free local AI character swap for Windows and Linux. Wan 2.2 Animate on your own NVIDIA GPU, no cloud and no account. Installers for Windows, Debian and AppImage.</td>
 <td nowrap><a href="https://github.com/jutsuhq/kawarimi-local-character-swap/releases/latest">Download</a> · <a href="https://jutsustudio.com/kawarimi/">Site</a></td>
 </tr>
 </table>
@@ -63,11 +65,17 @@ Jutsu Studio also installs with Homebrew: `brew install jutsuhq/tap/jutsu-studio
 - **[edgetam-onnx](https://github.com/jutsuhq/edgetam-onnx)** · The same tracker on Windows and Linux: EdgeTAM and SAM 2.1 tiny in Rust on ONNX Runtime's CUDA provider, ~42 ms a frame.
 - **[higgsfield-gateway](https://github.com/jutsuhq/higgsfield-gateway)** · Higgsfield API gateway on Cloudflare Workers, with spending caps and signed webhook verification. [Guide](https://jutsustudio.com/blog/higgsfield-api-production/)
 - **[higgsfield-seedance-prompt-skill](https://github.com/jutsuhq/higgsfield-seedance-prompt-skill)** · Seedance 2.5 prompt skill for Claude, Claude Code, Codex and Cursor. [Guide](https://jutsustudio.com/blog/seedance-prompt-skill/)
+- **[claude-code-video-generation](https://github.com/jutsuhq/claude-code-video-generation)** · Generate AI videos from Claude Code: a skill for the Higgsfield API (Seedance 2.5, Kling 4.0, Genjutsu), with the price checked and capped before every run.
+- **[ComfyUI-Higgsfield](https://github.com/jutsuhq/ComfyUI-Higgsfield)** · ComfyUI custom nodes for the Higgsfield API, with the price shown before every run. Bring your own Higgsfield key.
+- **[gta6-stream-clipper](https://github.com/jutsuhq/gta6-stream-clipper)** · Claude Code skill that turns GTA 6 stream VODs into 9:16 clips for TikTok, Shorts and Reels, with word captions and a facecam split. [Site](https://gta6launch.com/clipping)
+- **[reverse-niche-skill](https://github.com/jutsuhq/reverse-niche-skill)** · Free TikTok and YouTube outlier finder and competitor analysis skill for Claude Code, Codex and Cursor.
 
 ### Data and lists
 
-- **[open-source-higgsfield](https://github.com/jutsuhq/open-source-higgsfield)** · Every open-source Higgsfield alternative on GitHub: 119 projects, 113 of them from ComfyUI's #OpenSourceHiggsfield challenge, with stars and licenses. [By category](https://jutsustudio.com/open-source-higgsfield/)
+- **[open-source-higgsfield](https://github.com/jutsuhq/open-source-higgsfield)** · Every open-source Higgsfield alternative on GitHub: 117 projects, 110 of them from ComfyUI's #OpenSourceHiggsfield challenge, with stars and licenses. [By category](https://jutsustudio.com/open-source-higgsfield/)
 - **[ai-media-api-prices](https://github.com/jutsuhq/ai-media-api-prices)** · What one second of AI video and one AI image cost at every API provider, from the model makers to resellers and relays, checked daily. [Video](https://jutsustudio.com/video-api-pricing/) · [Images](https://jutsustudio.com/image-api-pricing/)
 - **[awesome-higgsfield](https://github.com/jutsuhq/awesome-higgsfield)** · Tools, SDKs, MCP servers, agent skills and apps for Higgsfield.
 
 Guides, comparisons and prices: **[jutsustudio.com](https://jutsustudio.com/)**
+
+If one of these saves you time, a ⭐ on its repo is how other people find it. To hear about new versions, open the repo and choose **Watch › Custom › Releases**.
